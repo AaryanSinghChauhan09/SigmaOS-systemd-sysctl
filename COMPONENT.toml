@@ -3,7 +3,7 @@ name = "SigmaOS-systemd-sysctl"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "systemd-sysctl component"
+description = "systemd sysctl"
 upstream = []
 
 [contract]
